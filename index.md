@@ -16,6 +16,5 @@
 
 ### Now I have done this.
 
-Anchor to top of this website:
-(#markdown-assignment-page)
+[Go to Markdown assignment page] (#markdown-assignment-page)
 
