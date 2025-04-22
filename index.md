@@ -1,6 +1,6 @@
 # Markdown assignment page
-(#anchor-top)
-## The assingment was:
+
+## The assignment was:
 
 > **Free choice extra assignment bundle E**  
 >  
@@ -16,5 +16,4 @@
 
 ### Now I have done this.
 
-[Go to Markdown assignment page] (#markdown-assignment-page)
-
+[🔝 Go to Markdown assignment page](#markdown-assignment-page)
