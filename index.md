@@ -20,4 +20,12 @@
 *Such as this anchor to move to the top of the website*
 [🔝 Go to Markdown assignment page](#markdown-assignment-page)
 
+
+
+***To try and add an image to this site, here is a image of my desktop.***
 ![Screenshot of my desktop](images/image.png)
+
+Here is also an unordered list
+- Line 1
+* Line 2
++ Line 3
