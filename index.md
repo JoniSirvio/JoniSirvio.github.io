@@ -14,6 +14,10 @@
 > - Write the GitHub page address to the learning diary so that your peer reviewers can verify it easily  
 > - Keep the pages available until you have received your course grade  
 
-### Now I have done this.
+### Now I have done this website and it includes all sorts of Markdown flavour features.
 
+
+*Such as this anchor to move to the top of the website*
 [🔝 Go to Markdown assignment page](#markdown-assignment-page)
+
+![Screenshot of my desktop](images/image.png)
